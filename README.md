@@ -2,7 +2,6 @@
 
 **`Android Developer`**
 
-
 ###
 
 <p align="left">Hello! I am an Android developer focused on creating robust, scalable applications with a strong emphasis on user experience. I am currently studying Computer Engineering at Zambeze University. My specialty is transforming complex ideas into clean code and intuitive interfaces using the latest technologies in the Android ecosystem.</p>
