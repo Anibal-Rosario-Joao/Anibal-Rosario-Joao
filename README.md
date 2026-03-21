@@ -12,7 +12,7 @@
 
 <div align="left">
  <a href="https://anibal-rosario-joao.github.io/anibaldev.github.io/">
-  <img src="https://img.shields.io/static/v1?message=portifolio&logo=tryhackme&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  <img src="https://img.shields.io/static/v1?message=portfolio&logo=tryhackme&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
  </a>
   <a href="https://www.instagram.com/hannibal_ofice/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
