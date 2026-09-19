@@ -60,24 +60,6 @@
 
 </br>
 </br>
-
-### 📊 Statistic
-
-<img
- align = "left"
- alt = "GitHub Stats"
- height = "200"
- style = "padding-right: 10px"
- src = "https://github-readme-stats.vercel.app/api?username=Anibal-Rosario-Joao&show_icons=true&theme=tokyonight"
- />
- 
- <img
- align = "left"
- alt = "GitHub Stats"
- height = "200"
- style = "padding-right: 10px"
- src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Anibal-Rosario-Joao&theme=tokyonight&layout=compact"
- />
  
 <br clear="both">
 
